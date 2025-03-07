@@ -109,7 +109,7 @@ User - {}"""
 
     FILE_CAPTION = """<a href='https://t.me/PeloFlix'><b>{file_name}</b></a> 
     
- Provided By - </a></b> href='https://t.me/PeloFlix'><b>PeloFlix</b></a>"""
+ Provided By - </b> href='https://t.me/PeloFlix'><b>PeloFlix</a></a>"""
     
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
