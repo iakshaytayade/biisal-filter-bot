@@ -757,8 +757,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         online = f"{STREAM_LINK if STREAM_LINK else URL}/watch/{AKS.id}?hash={get_hash(AKS)}"
         download = f"{STREAM_LINK if STREAM_LINK else URL}/{AKS.id}?hash={get_hash(AKS)}"
         btn= [[
-            InlineKeyboardButton("ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ", url=online),
-            InlineKeyboardButton("ꜰᴀsᴛ ᴅᴏᴡɴʟᴏᴀᴅ", url=download)
+            InlineKeyboardButton("🖥️ ᴘʟᴀʏ ᴏɴʟɪɴᴇ 🖥️", url=online),
+            InlineKeyboardButton("📥 ᴅᴀᴡɴʟᴏᴀᴅ 📥", url=download)
         ],[
             InlineKeyboardButton('❌ ᴄʟᴏsᴇ ❌', callback_data='close_data')
         ]]
