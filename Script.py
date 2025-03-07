@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b> my name is #PeloFlix. i can provide kind of content to our members without any cost. just send movie name and get his file... {} {},"""
+    START_TXT = """<a><b> my name is #PeloFlix. i can provide kind of content to our members without any cost. just send movie name and get his file..."""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
     
