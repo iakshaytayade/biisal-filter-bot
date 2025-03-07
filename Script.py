@@ -107,9 +107,10 @@ User - {}"""
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
 
-    FILE_CAPTION = """<a href='https://t.me/PeloFlix'><b>{file_name}</b> 
+    FILE_CAPTION = """<a href='https://t.me/PeloFlix'><b>{file_name}</b></a> 
     
- Provided By - </b> href='https://t.me/PeloFlix'><b>PeloFlix</b>"""
+    Provided By - </b><a href='https://t.me/PeloFlix'><b>PeloFlix</b>"""
+    
     
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
