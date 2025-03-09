@@ -1,5 +1,6 @@
 class script(object):
-    START_TXT = """<b> My name is #PeloFlix. I can provide kind of content to our members without any cost. Just send movie name and get his file...</b></a>"""
+    START_TXT = """<b> my name is #PeloFlix. i can provide kind of/n/ncontent to our members without any cost.
+/n/njust send movie name and get his file...</b></a>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
     
@@ -99,8 +100,9 @@ User - {}"""
 📆 ʏᴇᴀʀ - {release_date}
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
-    FILE_CAPTION = """<a href='https://t.me/PeloFlix'><b>{file_name}</b></a>\n\nProvided By - <a href='https://t.me/PeloFlix'><b>PeloFlix</b></a>"""               
-    
+
+    FILE_CAPTION = """<a href='https://t.me/bisal_files'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
+
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
@@ -184,9 +186,7 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 
-Reach more audience by promoting your
-channel, group or bot here. Contact <a href='https://t.me/PeloFlix'<b>ADMIN</b>
-for more details.</b></a>"""
+💯 ɴᴏᴛᴇ - <i>ᴛʜɪs ʙᴏᴛ ɪs ꜰʀᴇᴇ ᴛᴏ ᴀʟʟ, ʏᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘs ᴀɴᴅ ᴇᴀʀɴ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏɴᴇʏ.</i></b>"""
 
     VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {} {},
 
