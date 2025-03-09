@@ -185,8 +185,8 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 
     Reach more audience by promoting your
-    nchannel, group or bot here. Contact <a href="https://www.heroku.com/">ADMIN</b>
-    for more details.</b>"""
+    nchannel, group or bot here. Contact <a href=https://t.me/isPelo{ADMIN}</a>
+    for more details.</b></a>"""
 
     VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {} {},
 
