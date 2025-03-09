@@ -185,7 +185,7 @@ Yᴏᴜʀ <ul>ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴ</ul> ᴡɪʟʟ ʙᴇ ᴀᴄᴛɪᴠ
 ʏᴏᴜ ᴄᴀɴ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀʟʟ ᴅᴇᴛᴀɪʟs ʙʏ /details ᴄᴏᴍᴍᴀɴᴅ
 
 Reach more audience by promoting your
-channel, group or bot here. Contact <a href='https://t.me/PeloFlix'><b>ADMIN</b>
+channel, group or bot here. Contact <a href='https://t.me/PeloFlix'<b>ADMIN</b>
 for more details.</b></a>"""
 
     VERIFICATION_TEXT = """<b>👋 ʜᴇʏ {} {},
